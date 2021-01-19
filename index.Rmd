@@ -61,7 +61,7 @@ Grades are computed as follows:
 
 ## What are the readings and class schedule?
 
-See the [Schedule page]("schedule.html") for an overview of weekly readings and assignment due dates.
+See the [Schedule page](schedule.html) for an overview of weekly readings and assignment due dates.
 
 ## Duke Community Standard
 
