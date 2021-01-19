@@ -32,7 +32,7 @@ Starred readings are those
 
 - Max Weber, "The Pure Types of Legitimate Authority."
 - Max Weber, "Bureaucracy."
-- * Charles Perrow, "Why bureaucracy?"
+- ★ Charles Perrow, "Why bureaucracy?"
 - "John D. Rockefeller and the creation of Standard Oil" (HBS Case 807110).
 
 #### Notes
@@ -45,8 +45,8 @@ Starred readings are those
 
 - Frederick W. Taylor, "Principles of scientific management."
 - Harry Braverman, "The degradation of work in the twentieth century." 
-- * Treadway Tire Company: Job dissatisfaction and high turnover at the Lima plant (HBS Case 2189).
-- * Michael Lewis, “The science of winning an unfair game”.
+- ★ Treadway Tire Company: Job dissatisfaction and high turnover at the Lima plant (HBS Case 2189).
+- ★ Michael Lewis, “The science of winning an unfair game”.
 
 #### Notes
 
@@ -56,7 +56,7 @@ Starred readings are those
 
 - George Homans, "The Hawthorne experiments."
 - Michael Burawoy, "The labor process as a game."
-- * Ross Bernstein, _The code: the unwritten rules of fighting and retaliation in the NHL_ (excerpts).
+- ★ Ross Bernstein, _The code: the unwritten rules of fighting and retaliation in the NHL_ (excerpts).
 
 #### Notes
 
@@ -67,7 +67,7 @@ Starred readings are those
 - Gideon Kunda. _Engineering culture: control & commitment in a high-tech corporation_ (excerpts).
 - Calvin Morrill, "Conflict management, honor, and organizational change.
 - Michael Cohen, James March, and Johan Olsen, "A garbage can model of organizational choice."
-- * _The New York Times_, "Scenes from a marriage."
+- ★ _The New York Times_, "Scenes from a marriage."
 
 #### Notes
 
@@ -80,8 +80,8 @@ Starred readings are those
 - Mayer Zald and Patricia Denton, “From evangelism to general service: the transformation of the YMCA”
 - Joan Woodward, "Technology and organization"
 - Glenn Carroll and Anand Swaminathan, “Why the microbrewery movement? Organizational dynamics of resource partitioning in the U.S. brewing industry.”
-- * _The New York Times_, “Is it last call for craft beer?”
-- * _Washington Post_, “Maryland’s small colleges saw the future, and it was bleak. Now, they’re
+- ★ _The New York Times_, “Is it last call for craft beer?”
+- ★ _Washington Post_, “Maryland’s small colleges saw the future, and it was bleak. Now, they’re
 selling liberal arts with a twist.”
 
 
@@ -94,7 +94,7 @@ selling liberal arts with a twist.”
 - Charles Perrow, _Normal accidents_ (excerpts).
 - Diane Vaughan, _The Challenger launch decision_ (excerpts).
 - Kieran Healy, "Organizations and Obligations."
-- * _New York Times_, "The C.D.C. Waited ‘Its Entire Existence for This Moment.’ What Went Wrong?"
+- ★ _New York Times_, "The C.D.C. Waited ‘Its Entire Existence for This Moment.’ What Went Wrong?"
 
 #### Notes
 
@@ -104,8 +104,8 @@ selling liberal arts with a twist.”
 
 - Paul DiMaggio and Walter Powell, "The iron cage revisited."
 - Frank Dobbin and Alexandra Kalev, "Why diversity programs fail."
-- * "Alliant Health System: A vision of total quality" (HBS Case 192003).
-- * _The Chronicle of Higher Education_, “The Cautionary Tale of a Short-Lived College.”
+- ★ "Alliant Health System: A vision of total quality" (HBS Case 192003).
+- ★ _The Chronicle of Higher Education_, “The Cautionary Tale of a Short-Lived College.”
 
 #### Notes
 
@@ -118,7 +118,7 @@ selling liberal arts with a twist.”
 
 - Neil Fligstein, _The transformation of corporate control_ (excerpts).
 - Rakesh Khurana, _Searching for a corporate savior_ (excerpts).
-- * “The Enron collapse” (HBS Case IMD164).
+- ★ “The Enron collapse” (HBS Case IMD164).
 
 #### Notes
 
@@ -129,7 +129,7 @@ selling liberal arts with a twist.”
 - Hayagreeva Rao, _Market rebels_ (excerpts).
 - Brayden King, "When markets become contentious".
 - Sarah Soule, _Contention and corporate social responsibility_ (excerpts).
-- * Hitting the wall: Nike and international labor practices” (HBS Case 700047).
+- ★ Hitting the wall: Nike and international labor practices” (HBS Case 700047).
 
 #### Notes
 
@@ -140,7 +140,7 @@ selling liberal arts with a twist.”
 - Ivan Illich, _Deschooling Society_ (excerpts).
 - Yochai Benkler, _The wealth of networks_ (excerpts).
 - Catherine Turco, _The conversational firm_ (excerpts).
-- * "Eden McCallum: A network-based consulting firm" (HBS Case 410056).
+- ★ "Eden McCallum: A network-based consulting firm" (HBS Case 410056).
 
 #### Notes
 
@@ -149,7 +149,7 @@ selling liberal arts with a twist.”
 #### Reading 
 
 - Rosabeth Moss Kanter, _Men and women of the corporation_ (excerpts).
-- * Lauren Rivera, _Pedigree: how elite students get elite jobs_ (excerpts).
+- ★ Lauren Rivera, _Pedigree: how elite students get elite jobs_ (excerpts).
 - Emilio Castilla, “Gender, race, and meritocracy in organizational careers”.
 
 #### Notes
@@ -159,8 +159,8 @@ selling liberal arts with a twist.”
 #### Reading 
 
 - Stephen Barley and Gideon Kunda, _Gurus, hired guns, and warm bodies: itinerant experts in a knowledge economy_ (excerpts).
-- * Sarah Brayne, _Predict and surveil: data, discretion, and the future of policing_ (excerpts).
-- * Ofer Sharone, _Flawed system, flawed self_ (excerpts).
+- ★ Sarah Brayne, _Predict and surveil: data, discretion, and the future of policing_ (excerpts).
+- ★ Ofer Sharone, _Flawed system, flawed self_ (excerpts).
 - Erin Kelly and Phyllis Moen, _Overload_ (excerpts).
 
 #### Notes
@@ -169,4 +169,4 @@ selling liberal arts with a twist.”
 
 #### Notes
 
-- Final paper due 
+- Final paper due by 5pm on April 26th.
