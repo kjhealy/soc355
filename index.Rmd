@@ -1,7 +1,7 @@
 ---
 title: "Organizations and Management"
 description: |
-  Course website for Sociol 355, Spring 2021
+  Course website for Sociology 355, Duke University, Spring 2021
 site: distill::distill_website
 ---
 
