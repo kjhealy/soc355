@@ -1,0 +1,17 @@
+name: "organizations_and_management"
+title: "Organizations and Management"
+description: |
+  Organizations and Management
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Schedule"
+      href: schedule.html
+output: distill::distill_article
+repository_url: https://github.com/kjhealy/soc355
+base_url: https://kjhealy.github.io/soc355
+
+
+

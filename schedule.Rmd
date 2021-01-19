@@ -1,0 +1,172 @@
+---
+title: "Course Schedule"
+description: |
+  Readings and assignments
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+The schedule is flexible and subject to change. I will keep it updated as we go.
+
+Starred readings are those 
+
+### Week 1: Introduction (Jan 20 and 22)
+
+#### Reading 
+
+- No reading this week
+
+#### Notes
+
+- Both class sessions are on Zoom this week. 
+- Wed: Orientation
+- Fri: Discussion. The division of labor and organizations; kinds of organizations; organization as contrasted with ... 
+
+### Week 2: Rationality, Bureaucracy, and the Corporation (Jan 27 and 29)
+
+#### Reading 
+
+- Max Weber, "The Pure Types of Legitimate Authority."
+- Max Weber, "Bureaucracy."
+- * Charles Perrow, "Why bureaucracy?"
+- "John D. Rockefeller and the creation of Standard Oil" (HBS Case 807110).
+
+#### Notes
+
+- Wednesday asynchronous; Friday Zoom.
+
+### Week 3: Scientific management (Feb 3 and 5)
+
+#### Reading 
+
+- Frederick W. Taylor, "Principles of scientific management."
+- Harry Braverman, "The degradation of work in the twentieth century." 
+- * Treadway Tire Company: Job dissatisfaction and high turnover at the Lima plant (HBS Case 2189).
+- * Michael Lewis, “The science of winning an unfair game”.
+
+#### Notes
+
+### Week 4: Human relations and the informal work group (Feb 10 and 12)
+
+#### Reading 
+
+- George Homans, "The Hawthorne experiments."
+- Michael Burawoy, "The labor process as a game."
+- * Ross Bernstein, _The code: the unwritten rules of fighting and retaliation in the NHL_ (excerpts).
+
+#### Notes
+
+### Week 5: The informal group and organizational culture (Feb 17 and 19)
+
+#### Reading 
+
+- Gideon Kunda. _Engineering culture: control & commitment in a high-tech corporation_ (excerpts).
+- Calvin Morrill, "Conflict management, honor, and organizational change.
+- Michael Cohen, James March, and Johan Olsen, "A garbage can model of organizational choice."
+- * _The New York Times_, "Scenes from a marriage."
+
+#### Notes
+
+
+### Week 6: Organizations and their environments (Feb 24 and 26)
+
+#### Reading 
+
+- Alvin Gouldner, _Patterns of Industrial Bureaucracy_ (excerpts)
+- Mayer Zald and Patricia Denton, “From evangelism to general service: the transformation of the YMCA”
+- Joan Woodward, "Technology and organization"
+- Glenn Carroll and Anand Swaminathan, “Why the microbrewery movement? Organizational dynamics of resource partitioning in the U.S. brewing industry.”
+- * _The New York Times_, “Is it last call for craft beer?”
+- * _Washington Post_, “Maryland’s small colleges saw the future, and it was bleak. Now, they’re
+selling liberal arts with a twist.”
+
+
+#### Notes
+
+### Week 7: Organizational disasters (Mar 5 and 7)
+
+#### Reading 
+
+- Charles Perrow, _Normal accidents_ (excerpts).
+- Diane Vaughan, _The Challenger launch decision_ (excerpts).
+- Kieran Healy, "Organizations and Obligations."
+- * _New York Times_, "The C.D.C. Waited ‘Its Entire Existence for This Moment.’ What Went Wrong?"
+
+#### Notes
+
+### Week 8: The institutional environment (Mar 10 and 12)
+
+#### Reading 
+
+- Paul DiMaggio and Walter Powell, "The iron cage revisited."
+- Frank Dobbin and Alexandra Kalev, "Why diversity programs fail."
+- * "Alliant Health System: A vision of total quality" (HBS Case 192003).
+- * _The Chronicle of Higher Education_, “The Cautionary Tale of a Short-Lived College.”
+
+#### Notes
+
+- The midterm exam will be assigned this week
+
+
+### Week 9: Shareholder value and the CEO (Mar 17 and 19)
+
+#### Reading 
+
+- Neil Fligstein, _The transformation of corporate control_ (excerpts).
+- Rakesh Khurana, _Searching for a corporate savior_ (excerpts).
+- * “The Enron collapse” (HBS Case IMD164).
+
+#### Notes
+
+### Week 10: Social movements, consumers, and corporations (Mar 24 and 26)
+
+#### Reading 
+
+- Hayagreeva Rao, _Market rebels_ (excerpts).
+- Brayden King, "When markets become contentious".
+- Sarah Soule, _Contention and corporate social responsibility_ (excerpts).
+- * Hitting the wall: Nike and international labor practices” (HBS Case 700047).
+
+#### Notes
+
+### Week 11: After the bureaucracy? (Mar 31 and Apr 02)
+
+#### Reading 
+
+- Ivan Illich, _Deschooling Society_ (excerpts).
+- Yochai Benkler, _The wealth of networks_ (excerpts).
+- Catherine Turco, _The conversational firm_ (excerpts).
+- * "Eden McCallum: A network-based consulting firm" (HBS Case 410056).
+
+#### Notes
+
+### Week 12: Organizations and categorical inequality (Apr 07 and 09)
+
+#### Reading 
+
+- Rosabeth Moss Kanter, _Men and women of the corporation_ (excerpts).
+- * Lauren Rivera, _Pedigree: how elite students get elite jobs_ (excerpts).
+- Emilio Castilla, “Gender, race, and meritocracy in organizational careers”.
+
+#### Notes
+
+### Week 13: Organizations and careers (Apr 14 and 16)
+
+#### Reading 
+
+- Stephen Barley and Gideon Kunda, _Gurus, hired guns, and warm bodies: itinerant experts in a knowledge economy_ (excerpts).
+- * Sarah Brayne, _Predict and surveil: data, discretion, and the future of policing_ (excerpts).
+- * Ofer Sharone, _Flawed system, flawed self_ (excerpts).
+- Erin Kelly and Phyllis Moen, _Overload_ (excerpts).
+
+#### Notes
+
+### Week 14 Open/Catch-Up (Apr 21 and 23)
+
+#### Notes
+
+- Final paper due 
