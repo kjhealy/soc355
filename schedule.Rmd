@@ -12,8 +12,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 The schedule is flexible and subject to change. I will keep it updated as we go.
 
-Starred readings are those 
-
 ### Week 1: Introduction (Jan 20 and 22)
 
 #### Reading 
