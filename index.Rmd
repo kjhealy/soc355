@@ -36,13 +36,32 @@ Most readings and other material will be provided via the Sakai site for the cou
 
 ## What do I need to do each week?
 
-_Keep up_ with the reading. _Watch_ and _take notes on_ any recorded lectures. _Participate_ in the Friday discussions and tasks. _Demonstrate_ that you understand what we've been discussing and can apply these ideas well.
+In general, _keep up_ with the reading; _watch_ and _take notes on_ any recorded lectures; _participate_ in the Friday discussions and tasks. Finally, _demonstrate_ that you understand what we've been discussing and can apply these ideas well.
+
+Because the class will be fully online, after the first week we will divide the class days into two kinds. Each week I will record a lecture and make it available on the University's [WarpWire](https://launch.warpwire.duke.edu) service by Wednesday. There will be a link to each video from the [Sakai site](https://sakai.duke.edu/portal/directtool/a2eb6596-13e2-4578-a9ce-a822155e18e8/). You can watch the lecture during the designated class meeting time, or at any stage that's convenient to you. Once you've watched the lecture and done the readings, write your weekly brief and upload it to the class dropbox on Sakai. Briefs are due by 5pm Wednesday of each week. 
+
+On Fridays, we will meet via Zoom to discuss the week's readings, the lecture, and your written briefs. I'll ask everyone to turn on their cameras so we can see one another. You should treat the Friday class as a kind of office hour, i.e. as a Q&A session and discussion opportunity. Its content will be driven by your questions in class and the content of the briefs you've written for that week. I expect you to come to class ready to ask questions and I'll call on people directly if there isn't a queue. Please take this process seriously and engage with it. The class will be _much_ better for everyone if you do.
+
+### The recorded Wednesday lectures
+
+The Wednesday lectures will not be simply a summary or rehashing of the reading material. Instead they will put the readings in context and develop and extend themes from them. They will also cover topics and examples _not_ discussed directly in the readings. 
+
+### The format of the weekly brief
+
+Your weekly brief should between 300 and 500 words long, no less and no more. It should focus on one of the starred readings for that week and do one or more of the following things:
+
+- Connect the content of the starred reading to other readings for that week
+- Raise a clear question about the reading that you want answered 
+- Raise a question about how the content of this week's lecture relates to the reading
+- Offer some coherent reflections on the content or the reading, perhaps by providing additional examples or extensions of the content based on your own thinking. 
+
+When writing the brief, assume that the person reading it has also read the material. Your goal is not to summarize the reading but to reflect on it analytically, raise good questions, and facilitate or extend discussion about it.
 
 ## How will I be assessed?
 
-You will be assessed by a number of short written assignments done prior to and during lectures, as well as your attendance and participation during discussion periods. From Week 2 onwards you will upload a brief of one of the starred readings (mainly HBS cases or items from the popular press). Details of the brief format will be provided in class. Briefs are due by 9pm Thursday of each week.
+You will be assessed by a number of short written assignments done prior to and during class, as well as your attendance and participation during discussion periods. From Week 2 onwards you will upload a brief of one of the starred readings (mainly HBS cases or items from the popular press). Briefs are due by 5pm Wednesday of each week.
 
-There will also be a midterm exam and a final paper. 
+There will also be a midterm exam and a final paper. Details on the paper's format and my expectations for it will be given in class.
 
 Grades are computed as follows: 
 
